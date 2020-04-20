@@ -1,0 +1,8 @@
+.vscode/
+dataset_dogs_vs_cats/
+saved_model/
+test/
+train/
+training_1/
+venv/
+*.sw*
