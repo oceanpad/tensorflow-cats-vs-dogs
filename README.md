@@ -3,7 +3,7 @@
 
 
 ## 1. Windows Requirements
-1. Tensorflow-GPU 1.15.0
+1. Tensorflow-GPU 1.15.2
 2. Cuda 10.0 (with cudnn)
 3. VS Community 2015
 

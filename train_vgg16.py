@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 import glob
 
 batch_size = 64
-epochs = 2
+epochs = 15
 IMG_HEIGHT = 200
 IMG_WIDTH = 200
 
